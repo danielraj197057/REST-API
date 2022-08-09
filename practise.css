@@ -1,0 +1,36 @@
+*{
+    top: 0;
+    left: 0;
+    margin: 0;
+}
+table{
+    align-items: center;
+    margin: 10px;
+    border-collapse: collapse;
+}
+
+td,th{
+    padding: 10px;
+    text-align: left;
+    border: 1px solid black;
+}
+th{
+    background-color:rgb(26, 156, 26);
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+button{
+    font-size: 17px;
+    color: white;
+    background-color: goldenrod;
+    border-radius: 28px;
+    border: none;
+    text-decoration: none;
+    padding: 12px;
+    font-weight: bolder;
+    text-align: center;
+    align-items: center;
+    margin-left: 50%;
+}
